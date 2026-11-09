@@ -1,5 +1,3 @@
-# CoderGpts-Projets
-
 ## My Projects
 
 1. **Virly**
